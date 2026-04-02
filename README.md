@@ -1,6 +1,7 @@
 🗓️ Automated Appointment Availability Checker
 
 A Python tool that monitors appointment availability for services and sends instant notifications via Telegram. Built using automation, API integration, and reverse-engineering techniques.
+I got permission… make sure you get permission too before automating your barber’s appointments! 😎✂️
 
 🚀 Project Overview
 
